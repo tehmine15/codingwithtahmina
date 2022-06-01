@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tahmina :blush:</h1>
-<img src="https://media4.giphy.com/media/oBYB0gqUy3xxBf89aT/giphy.gif?cid=ecf05e47flljm8gwrp5cxaebl6qegv32ov9e4lz5rab2jl58&rid=giphy.gif&ct=g" align="right" width="500" height="250">
+<img src="https://media4.giphy.com/media/oBYB0gqUy3xxBf89aT/giphy.gif?cid=ecf05e47flljm8gwrp5cxaebl6qegv32ov9e4lz5rab2jl58&rid=giphy.gif&ct=g" align="right" width="350" height="200">
 <h3 align="center">A passionate frontend developer from Azerbaycan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tehmine15&label=Profile%20views&color=0e75b6&style=flat" alt="tehmine15" /> </p>
