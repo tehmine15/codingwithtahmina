@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Tahmina :blush:</h1>
 <h3 align="center">A passionate frontend developer from Azerbaycan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tehmine15&label=Profile%20views&color=0e75b6&style=flat" alt="tehmine15" /> </p>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400" height="220">
 
 - 🔭 I’m currently working on **Kapital Bank OJSC**
 
 - 📫 How to reach me **abbasovatehmine15@gmail.com**
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400" height="200">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tehmine15&label=Profile%20views&color=0e75b6&style=flat" alt="tehmine15" /> </p>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
