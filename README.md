@@ -1,7 +1,7 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tahmina :blush:</h1>
-<img src="https://www.pinterest.com/pin/126663808259169690/" align="right" width="400" height="200">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F3848914-Programmer-Thomas&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjM1OKVo474AhUmgv0HHdloD-8QMygaegUIARC1Ag..i&docid=JaoX1Z03zMxihM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwjM1OKVo474AhUmgv0HHdloD-8QMygaegUIARC1Ag" align="right" width="400" height="200">
 <h3 align="center">A passionate frontend developer from Azerbaycan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tehmine15&label=Profile%20views&color=0e75b6&style=flat" alt="tehmine15" /> </p>
